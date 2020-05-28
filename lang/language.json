@@ -264,7 +264,7 @@
     "FI": "Äänestä tulevaa aikaa!"
   },
   "vote_remote_users_limit_reached": {
-    "NL": "TRANSLATE",
+    "NL": "Deelnemen vanaf huis is niet meer mogelijk!",
     "DE": "Keine Fern-Teilnahme mehr möglich!",
     "EN": "Attending remote is no longer possible!",
     "IT": "TRANSLATE",
@@ -492,7 +492,7 @@
     "FI": "Odottakaa RAID_LATE_TIME minuuttia!"
   },
   "remote_participants": {
-    "NL": "TRANSLATE",
+    "NL": "Sommige spelers, spelen vanaf huis.",
     "DE": "Einige Teilnehmer nehmen aus der Ferne teil.",
     "EN": "Some participants attending from remote.",
     "IT": "TRANSLATE",
@@ -504,7 +504,7 @@
     "FI": "TRANSLATE"
   },
   "remote_participants_private_group": {
-    "NL": "TRANSLATE",
+    "NL": "De afgesproken raid tijd is de start tijd!",
     "DE": "Bitte spielt als private Raidgruppe und teilt den Gruppencode via START_CODE über den Bot!",
     "EN": "Please raid as a private group and share the raid group code via START_CODE using the bot!",
     "IT": "TRANSLATE",
@@ -516,7 +516,7 @@
     "FI": "TRANSLATE"
   },
   "remote_participants_max": {
-    "NL": "TRANSLATE",
+    "NL": "Max. REMOTE_MAX_USERS spelers vanaf huis per tijd.",
     "DE": "Max. REMOTE_MAX_USERS Fern-Teilnahmen pro Uhrzeit!",
     "EN": "Max. REMOTE_MAX_USERS remote participations per time!",
     "IT": "TRANSLATE",
@@ -528,7 +528,7 @@
     "FI": "TRANSLATE"
   },
   "group_code": {
-    "NL": "TRANSLATE",
+    "NL": "Groep Code",
     "DE": "Gruppencode",
     "EN": "Group code",
     "IT": "TRANSLATE",
@@ -540,7 +540,7 @@
     "FI": "TRANSLATE"
   },
   "group_code_share": {
-    "NL": "TRANSLATE",
+    "NL": "Deel groep code",
     "DE": "Gruppencode teilen",
     "EN": "Share group code",
     "IT": "TRANSLATE",
@@ -552,7 +552,7 @@
     "FI": "TRANSLATE"
   },
   "code_send": {
-    "NL": "TRANSLATE",
+    "NL": "Groep code verzonden!",
     "DE": "Gruppencode verschickt!",
     "EN": "Group code send!",
     "IT": "TRANSLATE",
@@ -564,7 +564,7 @@
     "FI": "TRANSLATE"
   },
   "telegram_bot_start": {
-    "NL": "TRANSLATE",
+    "NL": "START",
     "DE": "STARTEN",
     "EN": "START",
     "IT": "TRANSLATE",
@@ -2628,7 +2628,7 @@
     "FI": "Uusi osallistuja!"
   },
   "alert_remote": {
-    "NL": "TRANSLATE",
+    "NL": "Spelers vanaf huis!",
     "DE": "Fern-Teilnahme!",
     "EN": "Remote participation!",
     "IT": "TRANSLATE",
@@ -2640,7 +2640,7 @@
     "FI": "TRANSLATE"
   },
   "alert_no_remote": {
-    "NL": "TRANSLATE",
+    "NL": "Geen spelers vanaf huis!",
     "DE": "Keine Fern-Teilnahme mehr!",
     "EN": "No more remote participation!",
     "IT": "TRANSLATE",
@@ -2652,7 +2652,7 @@
     "FI": "TRANSLATE"
   },
   "alert_group_code": {
-    "NL": "TRANSLATE",
+    "NL": "Prive raid groep!",
     "DE": "Private Raidgruppe!",
     "EN": "Private raid group!",
     "IT": "TRANSLATE",
